@@ -1,0 +1,5 @@
+# 忽略 cookie
+cookie.txt
+
+# 忽略 CSV 导出结果
+result.csv
